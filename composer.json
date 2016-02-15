@@ -1,0 +1,25 @@
+{
+    "name": "ygkee/vishnu",
+    "description": "ST Internal",
+    "license": "MIT",
+    "type": "package",
+    "keyword": ["internal", "admin", "laravel"],
+    "author": [
+        {
+            "name": "nelson",
+            "email": "kee.yooog@gmail.com",
+            "homepage": "https://github.com/ygkee/Vishnu"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "~5.0",
+        "illuminate/console": "~5.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~4.0"
+    },
+    "autoload": {
+        "psr-4": {"YK\\Vishnu\\": "src"}
+    }
+}
