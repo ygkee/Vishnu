@@ -6,7 +6,7 @@ use Illuminate\Console\AppNamespaceDetectorTrait;
 use Illuminate\Support\ServiceProvider;
 use Acacha\AdminLTETemplateLaravel\Facades\AdminLTE;
 
-class VishnuServiceProviders extends ServiceProvider
+class VishnuServiceProvider extends ServiceProvider
 {
     use AppNamespaceDetectorTrait;
 
