@@ -1,6 +1,7 @@
 {
     "name": "ygkee/vishnu",
     "description": "ST Internal",
+    "version": "1.0.0",
     "license": "MIT",
     "type": "package",
     "keyword": ["internal", "admin", "laravel"],
