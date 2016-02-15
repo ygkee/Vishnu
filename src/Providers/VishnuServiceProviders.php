@@ -4,7 +4,7 @@ namespace YK\Vishnu\Providers;
 
 use Illuminate\Console\AppNamespaceDetectorTrait;
 use Illuminate\Support\ServiceProvider;
-use Acacha\AdminLTETemplateLaravel\Facades\AdminLTE;
+use YK\Vishnu\Facades\Vishnu;
 
 class VishnuServiceProvider extends ServiceProvider
 {
