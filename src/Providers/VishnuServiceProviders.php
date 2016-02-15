@@ -34,6 +34,7 @@ class VishnuServiceProvider extends ServiceProvider
         });
 
         $this->publishes(Vishnu::controllers(), 'vishnu');
+        $this->publishes(Vishnu::configs(), 'vishnu');
     }
 
     /**

@@ -8,6 +8,6 @@ class Vishnu extends Facade
 {
     protected static function getFacadeAccessor()
     {
-        return 'Facade';
+        return 'Vishnu';
     }
 }
